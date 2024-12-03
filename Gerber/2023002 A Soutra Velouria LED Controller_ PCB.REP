@@ -1,0 +1,39 @@
+*************************************************************
+FileName = 2023002 A Soutra Velouria LED Controller_ PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : L3
+      File : 2023002 A Soutra Velouria LED Controller_ PCB.GP2
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : 2023002 A Soutra Velouria LED Controller_ PCB.GP1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
